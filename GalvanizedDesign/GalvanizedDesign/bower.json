@@ -1,0 +1,28 @@
+{
+  "name": "GalvanizedDesign",
+  "homepage": "https://github.com/TylerGalvanized/galvanized_design",
+  "authors": [
+    "Tyler Galvanized <tyler.bankston@galvanizeddesign.com>",
+    "Clint Galvanized <clint.carruthers@galvanizeddesign.com"
+  ],
+  "description": "website",
+  "main": "index.html",
+  "keywords": [
+    "Galvanized",
+    "Design",
+    "Website"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "angular-route": "^1.5.8"
+
+  }
+}
